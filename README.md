@@ -84,7 +84,7 @@ npm start
 ```
 
 Server will run on:
-👉 http://localhost:5000
+👉 http://localhost:3347
 
 ---
 
